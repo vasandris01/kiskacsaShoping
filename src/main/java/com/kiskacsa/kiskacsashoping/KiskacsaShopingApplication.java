@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class KiskacsaShopingApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(KiskacsaShopingApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(KiskacsaShopingApplication.class, args);
+    }
 
 }
