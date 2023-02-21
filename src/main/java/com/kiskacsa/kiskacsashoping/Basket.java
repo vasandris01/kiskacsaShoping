@@ -31,7 +31,7 @@ public class Basket {
         for (Product p : products){
             if(p.getName().equals(product.getName())){
                 products.remove(p);
-                products.add(p);
+                products.add(product);
                 return;
             }
         }
